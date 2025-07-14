@@ -68,10 +68,8 @@ To perform end-to-end data analysis on shipment data using real-world business p
 
 ## Files Included
 
-- `Shipment_Analysis.ipynb` – Main notebook with full analysis
+- `code.ipynb` – Main notebook with full analysis
 - `shipment_data.csv` – Dataset used (cleaned or sample)
-- `Shipment_Analysis.pdf` – Project Part 1 tasks
-- `Shipment_Analysis_Part_2.pdf` – Project Part 2 tasks
 - `README.md` – Project summary and structure
 
 ---
